@@ -1,0 +1,8 @@
+{
+	"author": "Julia Tsamago",
+	"email": "juliatsamago@gmail.com",
+	"nickName": "Mollie",
+	"botLocation": "/StarterBot/bin/Debug/netcoreapp2.0",
+	"botFileName": "StarterBot.dll",
+	"botLanguage": "c#core"
+}
